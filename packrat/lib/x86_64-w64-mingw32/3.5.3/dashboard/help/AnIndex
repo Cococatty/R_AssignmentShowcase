@@ -1,0 +1,12 @@
+dashboard-package	dashboard-package
+dashboard	dashboard-package
+dashboard_launch	dashboard_launch
+dashboard_open	dashboard_open
+dashboard_stop	dashboard_stop
+dcbarchart	dcbarchart
+dcboxplot	dcboxplot
+dcpiechart	dcpiechart
+dcrowchart	dcrowchart
+dcscatter	dcscatter
+dctable	dctable
+linebreak	linebreak

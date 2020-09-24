@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566895200624.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3068669776",
+    "id" : "7E194903",
+    "lastKnownWriteTime" : 1600937599,
+    "last_content_update" : 1600937599200,
+    "path" : "C:/Projects/Assignment Showcase/DATA423_Assignment2/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "789,1",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "781"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

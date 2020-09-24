@@ -1,0 +1,12 @@
+dashboard-package       Interactive Data Visualization with D3.js
+dashboard_launch        dashboard_launch generates the dashboard and
+                        launchs the local server
+dashboard_open          dashboard_open innitializes a new dashboard
+dashboard_stop          dashboard_stop stops the local Rook server
+dcbarchart              dcbarchart adds a bar chart to the dashboard
+dcboxplot               dcboxplot adds a box plot to the dashboard
+dcpiechart              dcpiechart adds a pie chart to the dashboard
+dcrowchart              dcrowchart adds a row chart to the dashboard
+dcscatter               dcscatter adds a scatter plot to the dashboard
+dctable                 dctable add a data table to the dashboard
+linebreak               linebreak adds a line break in the dashboard
